@@ -1,0 +1,3 @@
+root - WARNING - BMI_FN: height is less or equal to zero, height = 0.0
+root - WARNING - BMI_FN: weight is less or equal to zero, weight = -100.0
+root - WARNING - BMI_FN: weight and height are less or equal to zero, weight = 0.0, height = 0.0

@@ -1,0 +1,16 @@
+Gender,HeightCm,WeightKg,BMI,BMI Category,Health risk
+Male,0,96.0,-1.2,BMI ERROR,BMI ERROR
+Male,171,-100.0,-1.1,BMI ERROR,BMI ERROR
+Male,0,0.0,-1.0,BMI ERROR,BMI ERROR
+Male,100,18.4,18.4,Underweight,Malnutrition risk
+Male,100,24.9,24.9,Normal weight,Low risk
+Male,100,29.9,29.9,Overweight,Enhanced risk
+Female,100,34.9,34.9,Moderately obese,Medium risk
+Female,100,39.9,39.9,Severe obese,High risk
+Female,100,50.0,50.0,Very severe obese,Very high risk
+Male,171,96.0,32.83061454806607,Moderately obese,Medium risk
+Male,161,85.0,32.79194475521777,Moderately obese,Medium risk
+Male,180,77.0,23.76543209876543,Normal weight,Low risk
+Female,166,62.0,22.49963710262738,Normal weight,Low risk
+Female,150,70.0,31.11111111111111,Moderately obese,Medium risk
+Female,167,82.0,29.402273297715947,Overweight,Enhanced risk

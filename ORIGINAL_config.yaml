@@ -1,0 +1,10 @@
+input file name: ORIGINAL_input/customer_weight_height.json
+weight column: WeightKg 
+height column: HeightCm
+weight measurement system: kg
+height meqasurement system: cm
+output path: ORIGINAL_output
+output file name: output.csv
+output stats file name: stats.csv
+output n overweights file name: output_n_overweights.json
+log file name: ORIGINAL_errors.log
