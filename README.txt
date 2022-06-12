@@ -1,3 +1,6 @@
+It is an example of standalone app that uses yaml file as cofig, external library, logging, unitests and classes.
+There are two demos that work with two different input datasets.
+
 1. Running the ORIGINAL input dataset.
 
 if you wan to run the original input dataset:
